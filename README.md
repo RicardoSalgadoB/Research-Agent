@@ -1,4 +1,4 @@
-# Efficiency Project 1: Nature Index Share by sector
+# Efficiency Project 1: Publications by sector in Mexico
 *A project that I could live without, yet it makes life a lot easier*
 
 For some optative research, I needed to know how much of the scientific publications in the Mexico came from public and private institutions.
