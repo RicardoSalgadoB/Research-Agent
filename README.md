@@ -6,7 +6,7 @@ For some optative research, I needed to know how much of the scientific publicat
 The first step was to download the yearly data (2016-2024) for research institutions in Mexico from the [Nature Index](https://www.nature.com/nature-index/).
 *Note that the data coming from Nature Index describes information about the publications of the previous year. DO NOT GET CONFUSED BY THIS, it can make you use just a few hundred credits mor than needed*
 
-You need to download the Nature Index datasets in a CSV file by yourselves and put them in the CSV_Academia folder. Here's a list from wher you can get them:
+You need to download the Nature Index datasets in a CSV file by yourselves and put them in a directory called "CSV_Academia". Here's a list from where you can get the CSVs:
 * [2016](https://www.nature.com/nature-index/research-leaders/2016/institution/all/all/countries-Mexico)
 * [2017](https://www.nature.com/nature-index/research-leaders/2017/institution/all/all/countries-Mexico)
 * [2018](https://www.nature.com/nature-index/research-leaders/2018/institution/all/all/countries-Mexico)
