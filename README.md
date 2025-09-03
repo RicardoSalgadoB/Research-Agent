@@ -23,6 +23,6 @@ In the [main file](main.py), I just structured this idea using a dictionary to h
 If you run the code, there should be somwhere aroun here an Institution Dictionary JSON file (inst_dict.json) containing info on whether the institutions are public or private and a Returned DataFrame CSV file containing the results of running the program.
 
 ## Clarifications
-* There are probably better options than TAVILY for this task, howver this is what I had at hand
+* There are probably better options than TAVILY for this task, however this is what I had at hand
 
 Anyway, Goodbye.
